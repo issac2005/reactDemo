@@ -1,0 +1,19 @@
+.ant-input{
+    margin-bottom: 24px;
+    height: 40px;
+    line-height: 40px;
+}
+
+.bf-container {
+    border: 1px solid #d9d9d9;
+    border-radius: 5px;
+
+    .bf-controlbar {
+        height: 48px;
+        box-shadow: none;
+        background: rgba(0, 0, 0, 0.03)
+    }
+    .bf-content{
+        height: 300px;
+    }
+}

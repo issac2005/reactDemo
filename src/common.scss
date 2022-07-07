@@ -1,0 +1,17 @@
+@mixin button {
+    font-size: 16px;
+    font-weight: 600;
+    color: #fff;
+    height: 32px;
+    line-height: 32px;
+    padding: 0 16px;
+    background: radial-gradient(50% 115.18% at 50% -15.18%, #8F00FF 0%, #532BC5 100%);
+    border-radius: 16px;
+  }
+  
+  $purpleBg: #532BC5;
+  $normalBg: #C4C4C4;
+  $dangerBg: #FF002E;
+  $titleColor: #030303;
+  $textColor: #606060;
+  $linearBg: radial-gradient(84.9% 100% at 50% 0%, #8F00FF 0%, #532BC5 100%);
