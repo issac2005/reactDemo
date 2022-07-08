@@ -9,12 +9,6 @@ function App() {
 
   return (
     <div className="App">
-    {/* <Editor/> */}
-     {/* <div>
-      <NavLink className="list-group-item" to="/count">count</NavLink>
-				<NavLink className="list-group-item" to="/person">person</NavLink>
-     </div>*/}
-
      <div>{element}</div> 
     </div>
   );
